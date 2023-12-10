@@ -32,5 +32,9 @@ equation (1), it is clear that there is a relationship between the modulation ra
 train the regression model and to come up with an efficient model to test with
 real world data to estimate the hemoglobin concentration non-invasively. The
 proposed method
+![Glucose prediction accuracy](https://github.com/sudarshanellora/Non-Invasive-method-of-Hemoglobin-and-Glucose-level-detection/assets/115383952/03a45276-8c02-4ec2-b2ea-969541ef0dbe)
+![Model testing](https://github.com/sudarshanellora/Non-Invasive-method-of-Hemoglobin-and-Glucose-level-detection/assets/115383952/31231fdd-ca94-49b9-be11-acedfe5798b6)
+![Model prediction](https://github.com/sudarshanellora/Non-Invasive-method-of-Hemoglobin-and-Glucose-level-detection/assets/115383952/08d0aed9-607a-4d6e-9065-8303d703d49c)
+![Hemoglobin prediction accuracy](https://github.com/sudarshanellora/Non-Invasive-method-of-Hemoglobin-and-Glucose-level-detection/assets/115383952/bc8b380a-fad7-4bb7-8b0b-20c56a86045b)
 
 
