@@ -32,3 +32,5 @@ equation (1), it is clear that there is a relationship between the modulation ra
 train the regression model and to come up with an efficient model to test with
 real world data to estimate the hemoglobin concentration non-invasively. The
 proposed method
+
+
